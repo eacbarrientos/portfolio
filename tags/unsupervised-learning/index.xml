@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>unsupervised learning on Alfred Barrientos</title>
+    <link>https://eacbarrientos.github.io/portfolio/tags/unsupervised-learning/</link>
+    <description>Recent content in unsupervised learning on Alfred Barrientos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://eacbarrientos.github.io/portfolio/tags/unsupervised-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Semi-automated Clustering Function</title>
+      <link>https://eacbarrientos.github.io/portfolio/post/chapter-1/</link>
+      <pubDate>Wed, 13 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://eacbarrientos.github.io/portfolio/post/chapter-1/</guid>
+      <description>Basically, I created a python function that (1.) makes use of the approriate clustering algorithm based on the data types of the input dataframe, and (2.) outputs the optimal count of cluster, assigned cluster for each observation, and centroids of each cluster. K-Means, K-Mode, and K- Prototype clustering algorithms and Elbow method are used in this project.
+See the Full Project in Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

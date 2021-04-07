@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>crisp-dm on Alfred Barrientos</title>
+    <link>https://eacbarrientos.github.io/portfolio/tags/crisp-dm/</link>
+    <description>Recent content in crisp-dm on Alfred Barrientos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Mar 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://eacbarrientos.github.io/portfolio/tags/crisp-dm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: End-to-end Classification Model Project Solving Attrition Problem</title>
+      <link>https://eacbarrientos.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Tue, 30 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://eacbarrientos.github.io/portfolio/post/chapter-3/</guid>
+      <description>The main objective is to solve this bank-related problem where a business manager of a consumer credit card portfolio is facing a severe customer attrition problem in the recent months. The business manager wants to leverage the power of data analytics to understand the primary reasons of attrition. She also wants to have an ability to understand the customers who are likely to close their accounts with the bank in the near future, so that she can focus her team&amp;rsquo;s efforts, well in advance to retain those customers.</description>
+    </item>
+    
+  </channel>
+</rss>
